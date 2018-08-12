@@ -10,7 +10,7 @@ namespace vm
     {
         static void Main(string[] args)
         {
-            if (args.Length==0) { Console.WriteLine("vm.exe {prefix} [start-date-string] "); }
+            if (args.Length==0) { Console.WriteLine("vm.exe {prefix} [start-date-string] "); return;}
             var prefix = args[0];
             var starttime = DateTime.MinValue;
                 ;
