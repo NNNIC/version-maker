@@ -1,0 +1,5 @@
+C:\Users\gea01\Documents\psgg\version-maker\vm\vm\bin\Debug\vm.exe.config
+C:\Users\gea01\Documents\psgg\version-maker\vm\vm\bin\Debug\vm.exe
+C:\Users\gea01\Documents\psgg\version-maker\vm\vm\bin\Debug\vm.pdb
+C:\Users\gea01\Documents\psgg\version-maker\vm\vm\obj\Debug\vm.exe
+C:\Users\gea01\Documents\psgg\version-maker\vm\vm\obj\Debug\vm.pdb

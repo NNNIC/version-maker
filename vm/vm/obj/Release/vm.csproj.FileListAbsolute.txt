@@ -1,0 +1,5 @@
+C:\Users\gea01\Documents\psgg\version-maker\vm\vm\bin\Release\vm.exe.config
+C:\Users\gea01\Documents\psgg\version-maker\vm\vm\bin\Release\vm.exe
+C:\Users\gea01\Documents\psgg\version-maker\vm\vm\bin\Release\vm.pdb
+C:\Users\gea01\Documents\psgg\version-maker\vm\vm\obj\Release\vm.exe
+C:\Users\gea01\Documents\psgg\version-maker\vm\vm\obj\Release\vm.pdb
